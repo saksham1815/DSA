@@ -1,5 +1,5 @@
 import java.util.ArrayList;
-import java.util.List;
+import java.util.*;
 
 class Solution {
     public static long nCr(int n, int r) {
